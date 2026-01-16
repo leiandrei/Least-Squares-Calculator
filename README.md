@@ -8,11 +8,7 @@ This repository contains a **Least-Squares Calculator** developed as a final pro
 
 ## 📘 Project Overview
 
-In many real-world problems, systems of linear equations do not have exact solutions because there are more equations than unknowns or because of inconsistent data. The **least squares method** provides an approximate solution by minimizing the squared error:
-
-\[
-\|Ax - b\|^2
-\]
+In many real-world problems, systems of linear equations do not have exact solutions because there are more equations than unknowns or because of inconsistent data. The **least squares method** provides an approximate solution by minimizing the squared error.
 
 Instead of solving \( Ax = b \) exactly, the program finds a vector \( x \) that best fits the system in the least-squares sense using linear algebra concepts such as matrix transposition and multiplication.
 
@@ -42,5 +38,23 @@ The solution minimizes the total squared difference between the predicted and ac
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 🛠 How to Run the Project
+
+### 📌 Prerequisites
+
+Make sure you have the following installed:
+- Java Development Kit (JDK)
+- Git
+
+---
+
+### 📥 Clone the Repository
+
+Using HTTPS:
+```bash
+git clone https://github.com/leiandrei/Least-Squares-Calculator.git
+
 
