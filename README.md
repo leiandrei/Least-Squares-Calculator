@@ -38,6 +38,11 @@ The solution minimizes the total squared difference between the predicted and ac
 
 ---
 
+## 📁 Project Structure
+
+Least-Squares-Calculator/
+├── src/ # Source code files
+├── README.md
 
 ---
 
@@ -47,7 +52,6 @@ The solution minimizes the total squared difference between the predicted and ac
 
 Make sure you have the following installed:
 - Java Development Kit (JDK)
-- Git
 
 ---
 
